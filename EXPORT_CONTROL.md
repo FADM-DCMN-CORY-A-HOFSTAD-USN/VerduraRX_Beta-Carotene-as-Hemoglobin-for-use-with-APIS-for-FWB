@@ -1,7 +1,7 @@
 # Export Control & Compliance Statement
 
 ## 1. Product Classification & Legal Counsel
-* **Item Name:** [Your Software Name / Repo Name]
+* **Item Name:** Verdura RX Beta Carotene as Hemoglobin for use with APIS for FWB
 * **Jurisdiction:** U.S. Department of Commerce (Bureau of Industry and Security - BIS)
 * **Classification Status:** EAR99 (Medical Device Software / SaMD)
 * **Retained Counsel:** Fox Rothschild LLP (Medical Technology & International Trade Groups)
